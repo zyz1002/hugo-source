@@ -38,7 +38,7 @@ if ($sourceDiff -eq 0) {
     Write-Host "No source changes to commit." -ForegroundColor Cyan
 } else {
     Invoke-Step "git commit -m `"$SourceMessage`""
-    Invoke-Step "git push origin master"
+    Invoke-Step "git push origin main"
 }
 
 # 3. 构建站点
