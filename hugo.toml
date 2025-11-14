@@ -1,0 +1,48 @@
+baseURL =   baseURL = "https://zyz1002.github.io/"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-void'
+
+# Social media links
+[params]
+  [params.social]
+    github = "https://github.com/yourusername"
+    twitter = "https://twitter.com/yourusername"
+    email = "your.email@example.com"
+  [params.avatar]
+    url = "https://picped-1301226557.cos.ap-beijing.myqcloud.com/avatar.png"
+  [params.theme]
+    default = "light"
+
+# Main menu
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 40
+
+# Table of Contents (recommended)
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+    ordered = false
+
+# Allow raw HTML within Markdown (for KaTeX, etc.)
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
