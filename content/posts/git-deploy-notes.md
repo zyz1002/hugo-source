@@ -1,6 +1,7 @@
 ---
 title: "GitHub 部署流程复盘"
 date: 2025-11-14T18:20:00+08:00
+categories: ["tech"]
 tags:
   - 部署
   - Git

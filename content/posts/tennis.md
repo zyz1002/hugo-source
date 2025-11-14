@@ -2,7 +2,7 @@
 title: "网球训练心得汇总"
 date: 2025-11-14T10:00:00+08:00
 draft: false
-categories: ["生活"]
+categories: ["life"]
 tags: ["网球"]
 description: "记录每次打网球的技术感悟、问题改进和心态变化，持续进步～"
 ---

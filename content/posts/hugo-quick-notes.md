@@ -1,7 +1,7 @@
 ---
 title: "Hugo 使用速记"
 date: 2025-11-14T17:20:00+08:00
-categories: ["技术"]
+categories: ["tech"]
 tags:
   - Hugo
   - 技术笔记

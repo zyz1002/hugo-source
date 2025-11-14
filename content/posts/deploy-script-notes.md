@@ -1,7 +1,7 @@
 ---
 title: "deploy.ps1 脚本详解"
 date: 2025-11-14T19:30:00+08:00
-categories: ["技术"]
+categories: ["tech"]
 tags:
   - 部署
   - PowerShell
