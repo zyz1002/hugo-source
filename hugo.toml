@@ -31,6 +31,16 @@ pageRef = '/tags'
 weight = 30
 
 [[menus.main]]
+name = '生活'
+pageRef = '/categories/生活'
+weight = 31
+
+[[menus.main]]
+name = '技术'
+pageRef = '/categories/技术'
+weight = 32
+
+[[menus.main]]
 name = 'About'
 pageRef = '/about'
 weight = 40
