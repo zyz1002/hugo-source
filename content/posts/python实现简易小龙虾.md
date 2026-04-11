@@ -1,5 +1,5 @@
 ---
-title: "从零手搓一个 QQ AI 助手 — 小龙虾 bot 开发全记录"
+title: "简易 QQ AI 助手 — 小龙虾 bot 实现记录"
 date: 2026-04-11T10:00:00+08:00
 categories: ["tech"]
 tags:
